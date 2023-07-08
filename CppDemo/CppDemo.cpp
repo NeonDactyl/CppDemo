@@ -8,8 +8,5 @@ int main()
 
     mySimul.runTest();
 
-    mySimul;
-    std::cout << "Hello World!\n";
-
     return 0;
 }

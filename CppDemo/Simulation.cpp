@@ -30,6 +30,9 @@ void Simulation::runTest()
     {
         std::cout << "Woop\n";
     }
+    else {
+        std::cout << "ohno\n";
+    }
     reusableFunctionOne();
     reusableFunctionTwo();
 }

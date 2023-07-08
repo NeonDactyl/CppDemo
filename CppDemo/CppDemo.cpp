@@ -15,7 +15,7 @@ int main()
 
     print("\n\nInitializing second simulation of different type\n");
 
-    SimulationTwo secondSimulation(1, 2, (float)3.0, 3.1415);
+    SimulationTwo secondSimulation(3, 2, (float)3.0, 3.1415);
 
 
     print("\n\n\nRunning first simulation test\n");

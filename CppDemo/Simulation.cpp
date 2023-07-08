@@ -18,6 +18,8 @@ Simulation::Simulation(int v1, int v2, float v3, double v4)
     value2 = v2;
     value3 = v3;
     value4 = v4;
+
+    std::cout << "Simulation Created\n";
 }
 
 
@@ -29,4 +31,5 @@ void Simulation::runTest()
         std::cout << "Woop\n";
     }
     reusableFunctionOne();
+    reusableFunctionTwo();
 }
